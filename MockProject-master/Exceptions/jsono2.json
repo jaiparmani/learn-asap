@@ -1,0 +1,9 @@
+[
+  {
+    "exception_ID": 1,
+    "exception_name": "MandatoryField",
+    "exception_component": "TAILAYER",
+    "exception_level": "LOW",
+    "exception_description": "960 Thomas Street, Monument, Michigan, 9545"
+  }
+]
